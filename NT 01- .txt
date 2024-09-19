@@ -1,0 +1,16 @@
+NT 01- 
+*Não deve ser apresentado o projeto para as instalações, exceto 
+quando as unidades consumidoras sejam integrantes de EMUC (Estação de Medição em Uso Comercial)
+*Empreendimentos com até 9 unidades residenciais monofásicas de até 40 m² em medição agrupada não precisam de aprovação de projeto, desde que o condomínio tenha apenas iluminação e tomadas simples.
+*Unidades monofásicas e bifásicas com até 4 consumidores e carga total de até 48 kW dispensam barramento no padrão de entrada, exigindo individualização; caso contrário, requer medição agrupada com projeto.
+*Se o empreendimento possuir geração própria, distribuída ou características técnicas específicas, deve seguir obrigatoriamente as normas aplicáveis.
+*Em empreendimentos com múltiplas unidades consumidoras, deve-se seguir as diretrizes da norma técnica NT.004 vigente.
+*Clientes no padrão EMUC devem apresentar documentos conforme a norma NT.004.EQTL vigente, referente ao fornecimento de energia elétrica a edificações de múltiplas unidades consumidoras.
+Ligação da Instalação
+*A instalação só será conectada ao sistema da concessionária após execução do padrão de entrada e solicitação de fornecimento de energia elétrica.
+*A instalação do padrão de entrada deve seguir os requisitos técnicos da norma, e a concessionária tem o direito de vistoriar e rejeitar o projeto para evitar problemas na rede de distribuição.
+*Após a instalação, o consumidor deve solicitar o fornecimento na agência da CONCESSIONÁRIA, presencialmente ou pelo site www.equatorialenergia.com.br, escolhendo o estado de interesse.
+*Para solicitar fornecimento de energia, devem ser informados nome e contato do interessado, endereço do imóvel, número do poste mais próximo, finalidade do fornecimento, potência instalada e número de fases das cargas elétricas.
+*O consumidor (UC) deve apresentar cópia do CPF e RG ou outro documento com foto, além de uma procuração reconhecida em cartório, se for representante legal.
+*Para pessoas jurídicas, devem ser apresentados documentos específicos do solicitante ou representante, incluindo contrato social, CNPJ, CPF e RG, além de uma procuração se o representante não estiver no contrato. Pequenas e microempresas podem substituir o contrato social pelo registro no Cadastro Simples. A concessionária não se responsabiliza pela execução técnica das instalações elétricas internas.
+*Estudos são realizados para verificar a necessidade de reforço de rede e evitar perturbações em casos de: demandas trifásicas ≥ 22 kVA, uso de equipamentos específicos (máquinas de solda, betoneira); motores elétricos monofásicos ≥ 2CV, bifásicos ≥ 3CV, trifásicos ≥ 15CV; motores superiores a 2 CV/fase (220 V) ou 3 CV/fase (380/220 V); cargas perturbadoras como Raios-X ou solda a transformador; e ligações provisórias para eventos com carga > 6 kW.
